@@ -1,4 +1,4 @@
-Test word
+Test conflict
 123
 New test word
 Super new test word
