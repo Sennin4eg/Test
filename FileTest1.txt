@@ -5,3 +5,4 @@ New test word
 Super new test word
 Add Line
 stash
+new branch line
